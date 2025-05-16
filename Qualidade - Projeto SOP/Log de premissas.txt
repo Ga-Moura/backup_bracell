@@ -1,0 +1,46 @@
+Lista de Insumos que não estão cadastrados em premissas:
+[20018] Subsolagem Norte
+[5020] Tratores Pipinha SP
+[20017] Subsolagem Norte
+[25111] Autopropelido SP
+[24087] Tratores Pipinha SP
+
+____________________________________________________________________________________________________
+
+Lista de Operações que não estão cadastradas em premissas:
+SERV APLIC HERB AREA TOTAL AUTOPROPELIDO PROPRIO
+
+____________________________________________________________________________________________________
+
+Lista de Talhões que tem apontamento de Cob2 mas não tem Cob1:
+0211004
+0211006
+
+____________________________________________________________________________________________________
+
+Lista de materiais genéticos que não estão cadastrados em premissas:
+AEC2233
+
+____________________________________________________________________________________________________
+
+Lista de operação não cadastradas em regua de operação mas cadastradas em tipo de operação:
+
+____________________________________________________________________________________________________
+
+Lista de operações de Herbicida com o tipo de operação em branco:
+
+____________________________________________________________________________________________________
+
+    Resumo de Execução:                
+                    
+                    
+    O último apontamento do boletim é de: 06/11/24;
+
+    Temos 0 talhões duplicados na base de Aderência;
+
+    Executado e arquivo txt de Log de premissas gerado com sucesso ;
+
+    O tempo de execução foi de 6 minutos.
+
+    Executado as 16:53:52 hrs.
+    
