@@ -1,0 +1,5 @@
+Log de erros:
+Operações com percentual diferente de zero que precisam de revisão
+Se o campo 'Valores' for maior do que 1, logo é necessário que haja revisão dos percentuais atuais
+Executado as 16:53:38
+______________________________________________________________________________________________________________________________________________________
